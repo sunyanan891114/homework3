@@ -72,14 +72,16 @@ ul.nav li{
 }
 ul.nav a {
 	background: url("../img/ornament.png") no-repeat 0 100%;
+	font: bold 14px/1.2 "Book Antiqua", "Palatino Linotype", Georgia, serif;
 	display: block;
 	text-align: center;
 	letter-spacing: 0.1em;
-	padding: 0 0.5em 3em;
+	padding: 1em 0.5em 3em;
 	margin-bottom: -1em;
 	text-transform: uppercase;
 	font-size: xx-small;
-	height: 36px;
+	height: 3em;
+	border-top: 1px solid #888583;
 }
 ul.nav a:hover {
 	background-position: 50% 100%;
